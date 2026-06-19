@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author burug
+ *
+ */
+module ThomasTravels {
+}
